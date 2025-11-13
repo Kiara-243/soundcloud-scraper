@@ -1,0 +1,9 @@
+{
+  "log_level": "INFO",
+  "user_agent": "SoundCloudScraper/1.0",
+  "request_timeout": 10,
+  "include_comments": true,
+  "end_page": 0,
+  "max_items": 0,
+  "client_id": "YOUR_SOUNDCLOUD_CLIENT_ID_HERE"
+}
